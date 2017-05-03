@@ -1,0 +1,51 @@
+[
+  {
+    "browser": "firefox",
+    "browser_version": "41.0",
+    "device": null,
+    "os": "OS X",
+    "os_version": "Snow Leopard"
+  },
+  {
+    "browser": "chrome",
+    "browser_version": "57.0",
+    "device": null,
+    "os": "Windows",
+    "os_version": "10"
+  },
+  {
+    "browser": "edge",
+    "browser_version": "15.0",
+    "device": null,
+    "os": "Windows",
+    "os_version": "10"
+  },
+  {
+    "browser": "ie",
+    "browser_version": "11.0",
+    "device": null,
+    "os": "Windows",
+    "os_version": "8.1"
+  },
+  {
+    "browser": "safari",
+    "browser_version": "5.1",
+    "device": null,
+    "os": "OS X",
+    "os_version": "Snow Leopard"
+  },
+  {
+    "browser": "chrome",
+    "browser_version": "52.0",
+    "device": null,
+    "os": "OS X",
+    "os_version": "Mavericks"
+  },
+  {
+    "browser": "chrome",
+    "browser_version": "52.0",
+    "device": null,
+    "os": "OS X",
+    "os_version": "El Capitan"
+  }
+]
