@@ -1,6 +1,6 @@
 #ruby-cucumber-BrowserStack
 
-[TestNG](http://testng.org) Test project to test sample scenarios using Selenium-BrowserStack in ruby-cucumber.
+Test project to test sample scenarios using Selenium-BrowserStack in ruby-cucumber.
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
